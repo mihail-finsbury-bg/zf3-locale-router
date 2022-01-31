@@ -1,9 +1,9 @@
 {
-    "name": "koseduhemak/zf3-locale-router",
+    "name": "mihail-finsbury-bg/zf3-locale-router",
     "description": "Setup language-aware routes in Zend Framework 3 applications like f.e. www.example.com/de/my/uri for German or www.example.com/en/my/uri for English.",
     "type": "library",
     "require": {
-        "php": "^7.1 || ^7.2 || ^7.3 || ^7.4",
+        "php": "^7.1 || ^7.2 || ^7.3 || ^7.4 || ^8.0",
         "ext-intl": "*",
         "laminas/laminas-mvc": "^2.7.10 || ^3.0",
         "laminas/laminas-servicemanager": "^3.1",
